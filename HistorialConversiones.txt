@@ -1,0 +1,3 @@
+2024-04-29 17:20:54.375908100 =>> El valor de 4600.0 [EUR] corresponde al valor de 4924.76 [USD]
+2024-04-29 17:21:00.320985300 =>> El valor de 2300.0 [EUR] corresponde al valor de 42301.83 [MXN]
+2024-04-29 17:21:06.663592 =>> El valor de 3500.0 [ARS] corresponde al valor de 6.1915 [AUD]
