@@ -1,6 +1,6 @@
 # Conversor de monedas
 
-Programa desarrollado en Java utilizando la API ExchangeRate-API para realizar algunas conversiones consumiendo dicha API
+Programa desarrollado en Java utilizando la API ExchangeRate-API para realizar algunas conversiones consumiendo dicha API. Primer challenge del programa ONE-G6 para la especializacion de Backend
 
 [![ Estado del proyecto](https://img.shields.io/badge/STATUS-TERMINADO-green)](https://choosealicense.com/licenses/mit/)
 
@@ -13,4 +13,4 @@ https://github.com/RoIvanAlvarez/Conversor-de-monedas/assets/124290145/3d1f0880-
 
 ## Construido con 🛠️
 
-* Java
+* Java 17
