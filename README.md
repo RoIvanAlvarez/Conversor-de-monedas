@@ -2,8 +2,6 @@
 
 Programa desarrollado en Java utilizando la API ExchangeRate-API para realizar algunas conversiones consumiendo dicha API
 
-## Badges
-
 [![ Estado del proyecto](https://img.shields.io/badge/STATUS-TERMINADO-green)](https://choosealicense.com/licenses/mit/)
 
 ## :hammer:Funcionalidades del proyecto
@@ -13,3 +11,6 @@ Programa desarrollado en Java utilizando la API ExchangeRate-API para realizar a
 
 https://github.com/RoIvanAlvarez/Conversor-de-monedas/assets/124290145/3d1f0880-0d72-4b1c-9c6c-fe7befdced16
 
+## Construido con 🛠️
+
+* Java
